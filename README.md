@@ -1,6 +1,6 @@
 # Request ,Reponse and Thread Objects
 
-## Web container craete 3 objects regurding the HTTP Request! 
+## Web container create 3 objects regurding the HTTP Request! 
  * To check this process , check by running the com/A.
 ```Java
 protected void processRequest(HttpServletRequest request, HttpServletResponse response)
